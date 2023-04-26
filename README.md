@@ -7,6 +7,10 @@
 
 <a href="https://www.cluebenchmarks.com/clueai.html">三分钟定制一个NLP的API--社区版免费、不需要标注数据、训练和算力</a>
 
+<video width="320" height="240" controls>
+  <source src="./scripts/WizardLMCaseShow.mp4" type="video/mp4">
+</video>
+
 
 ![gif](./scripts/git.gif)
 
